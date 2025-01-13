@@ -1,6 +1,6 @@
 {
-  "apiBaseUrl": "http://localhost:9097",
-  "apiBaseUrl_" : "https://doctorshub01.azurewebsites.net",
+  "apiBaseUrl_": "http://localhost:9097",
+  "apiBaseUrl" : "https://5489-130-105-41-188.ngrok-free.app/api",
   "env" : "dev",
   "title" : "Search App",
   "editor_config":{
