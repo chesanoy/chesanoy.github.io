@@ -1,0 +1,9 @@
+{
+  "apiBaseUrl": "http://localhost:9097",
+  "apiBaseUrl_" : "https://doctorshub01.azurewebsites.net",
+  "env" : "dev",
+  "title" : "Search App",
+  "editor_config":{
+    "document_base_url" : "/"
+  }
+}
